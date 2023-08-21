@@ -1,0 +1,140 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+.head{
+    background-image: url(/static/images/ff.avif);
+}
+.nav{
+    display: flex;
+}
+.navButton1
+{
+    width: 15%;
+    border: none;
+    padding: 1%;
+    background-color: #F9A825;
+    color: white;
+}
+.navButton2{
+    width: 35%;
+    border: none;
+    background-color: #9E9D24;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.navButton3{
+    width: 55%;
+    border: none;
+    background-color: #2E7D32;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.miniBody{
+    text-align: center;
+    color: blue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.form{
+    display: flex;
+    justify-content: space-evenly;
+}
+.maxBody{
+    height: 50vh;
+    display: flex;
+    justify-content: space-evenly;
+}
+.box1{
+    width: 15%;
+    margin: 1%;
+    height: 60%;
+    background-color: #187d2b;
+    color: white;
+    padding: 2%;
+    border-radius: 5%;
+    font-weight: 400;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+.icon{
+    display: flex;
+    justify-content: end;
+    border-bottom: 2px solid white;
+    padding: 8%;
+}
+.subBox1{
+    display: flex;
+    justify-content: center;
+    border-radius: 6%;
+    align-items: end;
+    background-color: rgb(7, 52, 7);
+}
+.box2{
+    width: 15%;
+    margin: 1%;
+    height: 60%;
+    background-color: #1f306e;
+    border-radius: 5%;
+    padding: 2%;
+    color: white;
+    font-weight: 100;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+.subBox2{
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    background-color:  #06144a;
+    border-radius: 4%;
+}
+.box3{
+    width: 15%;
+    margin: 1%;
+    height: 60%;
+    padding: 2%;
+    border-radius: 5%;
+    background-color: #871044;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+
+    
+}
+.subBox3{
+   display: flex;
+   justify-content: center;
+   align-items: end;
+   border-radius: 4%;
+   background-color: #52042d;
+}
+.box4{
+    width: 15%;
+    margin: 1%;
+    height: 60%;
+    padding: 2%;
+    border-radius: 5%;
+    background-color: #0d5f7d;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+.subBox4{
+    display: flex;
+    justify-content: center;
+    border-radius: 4%;
+    align-items: end;
+    background-color: rgb(4, 64, 85);
+}
+.footer{
+    display: flex;
+    justify-content: space-between;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: blue;
+}

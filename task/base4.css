@@ -1,0 +1,97 @@
+.header{
+    width: 70%;
+    height: 113vh;
+    background-color: #222;
+}
+.nav{
+    display: flex;
+}
+.button{
+    width: 30%;
+    border: none;
+    padding: 2%;
+    background-color: #222;
+    color: white;
+    justify-content: start;
+}
+.box{
+    display: flex;
+    justify-content: end;
+}
+.rightBox{
+    width: 97%;
+    height: 105vh;
+    background-color: white;
+    border: 1px solid black;
+}
+.navHead{
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid pink;
+}
+.subBox1{
+    display: flex;
+}
+.box1{
+    width: 30%;
+    height: 30%;
+    margin: 4%;
+    padding: 1.5%;
+    border-radius: 9%;
+    font-weight: 600;
+    text-align: center;
+    background-color: #F28A2E;
+    font-family: 'Courier New', Courier, monospace;
+    
+
+   
+}
+.box2{
+    width: 30%;
+    height: 30%;
+    margin: 4%;
+    padding: 1.5%;
+    border-radius: 9%;
+    text-align: center;
+    font-weight: 600;
+    font-family: 'Courier New', Courier, monospace;
+
+    
+}
+.box3{
+    width: 30%;
+    height: 30%;
+    margin: 4%;
+    padding: 1.5%;
+    border-radius: 9%;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 600;
+
+    
+}
+.subBox2{
+    display: flex;
+    height: 42vh;
+    justify-content: space-around;
+}
+.box4{
+    width: 40%;
+    height: 110%;
+    border-radius: 8%;
+    justify-content: center;
+    margin: 2%;
+    background-color: #F28A2E;
+}
+.img{
+    display: flex;
+    justify-content: center;
+}
+.box5{
+    width: 40%;
+    height: 110%;
+    border-radius: 8%;
+    justify-content: center;
+    margin: 2%;
+    background-color: #67B3F0;
+}

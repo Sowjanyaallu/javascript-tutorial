@@ -1,0 +1,108 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+.head{
+    background-image: url(/static/images/ff.avif);
+}
+.nav{
+    display: flex;
+}
+.navButton1
+{
+    width: 15%;
+    border: none;
+    padding: 1%;
+    background-color: #F9A825;
+    color: white;
+}
+.navButton2{
+    width: 35%;
+    border: none;
+    background-color: #9E9D24;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.navButton3{
+    width: 55%;
+    border: none;
+    background-color: #2E7D32;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.miniBody{
+    text-align: center;
+    color: blue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.form{
+    display: flex;
+    justify-content: space-evenly;
+}
+.maxBody{
+    height: 50vh;
+    display: flex;
+    justify-content: space-evenly;
+}
+.box1{
+    width: 15%;
+    margin: 4%;
+    height: 60%;
+    color: white;
+}
+.icon{
+    display: flex;
+    justify-content: end;
+    border-bottom: 2px solid white;
+    padding: 8%;
+}
+.subBox1{
+    display: flex;
+    justify-content: center;
+    align-items: end;
+   
+}
+.box2{
+    width: 15%;
+    margin: 4%;
+    height: 60%;
+    color: white;
+}
+.subBox2{
+    display: flex;
+    justify-content: center;
+    align-items: end;
+}
+.box3{
+    width: 15%;
+    margin: 4%;
+    height: 60%;
+    color: white;
+    
+}
+.subBox3{
+   display: flex;
+   justify-content: center;
+   align-items: end;
+  
+}
+.box4{
+    width: 15%;
+    margin: 4%;
+    height: 60%;
+    color: white;
+}
+.subBox4{
+    display: flex;
+    justify-content: center;
+    align-items: end;
+}
+.footer{
+    display: flex;
+    justify-content: space-between;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: blue;
+}

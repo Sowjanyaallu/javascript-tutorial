@@ -1,0 +1,9 @@
+.dynamic{
+    display: flex;
+}
+
+ h1{
+    display: flex;
+    flex-wrap: nowrap;
+
+} 

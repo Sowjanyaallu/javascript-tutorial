@@ -1,0 +1,86 @@
+.header{
+    width: 70%;
+    height: 113vh;
+    background-color: #222;
+}
+.nav{
+    display: flex;
+}
+.button{
+    width: 30%;
+    border: none;
+    padding: 2%;
+    background-color: #222;
+    color: white;
+    justify-content: start;
+}
+.box{
+    display: flex;
+    justify-content: end;
+}
+.rightBox{
+    width: 97%;
+    height: 105vh;
+    background-color: white;
+    border: 1px solid black;
+}
+.navHead{
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid pink;
+}
+.subBox1{
+    display: flex;
+}
+.box1{
+    width: 20%;
+    height: 25%;
+    margin: 4%;
+    padding: 1%;
+    border-radius: 9%;
+    text-align: center;
+    background-color: #F28A2E;
+}
+.box2{
+    width: 20%;
+    height: 25%;
+    margin: 4%;
+    padding: 1%;
+    border-radius: 9%;
+    text-align: center;
+    background-color: #91D8E0;
+}
+.box3{
+    width: 20%;
+    height: 25%;
+    margin: 4%;
+    padding: 1%;
+    border-radius: 9%;
+    text-align: center;
+    background-color: #AD51BC;
+}
+.subBox2{
+    display: flex;
+    height: 42vh;
+    justify-content: space-around;
+}
+.box4{
+    width: 40%;
+    height: 110%;
+    border-radius: 8%;
+    justify-content: center;
+    margin: 2%;
+    background-color: #F28A2E;
+}
+.img{
+    display: flex;
+    justify-content: center;
+}
+.box5{
+    width: 40%;
+    height: 110%;
+    border-radius: 8%;
+    justify-content: center;
+    margin: 2%;
+    background-color: #67B3F0;
+}
